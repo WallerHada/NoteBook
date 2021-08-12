@@ -4,10 +4,11 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace NoteBook.Enum
+namespace NoteBook.EnumNote
 {
     /// <summary>
     /// 枚举基类
+    /// https://docs.microsoft.com/zh-cn/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/enumeration-classes-over-enum-types
     /// </summary>
     public abstract class Enumeration : IComparable
     {

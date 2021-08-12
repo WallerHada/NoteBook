@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NoteBook.Enum
+namespace NoteBook.EnumNote
 {
     public class CardType
         : Enumeration
