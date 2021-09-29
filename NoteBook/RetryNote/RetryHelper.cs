@@ -1,5 +1,6 @@
 ﻿
 using NoteBook.LogNote;
+using System;
 
 namespace NoteBook.RetryNote;
 public static class RetryHelper

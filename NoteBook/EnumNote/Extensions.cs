@@ -1,5 +1,7 @@
 ﻿
+using System;
 using System.ComponentModel;
+using System.Linq;
 
 namespace NoteBook.EnumNote;
 public static partial class Extensions

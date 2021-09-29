@@ -1,5 +1,6 @@
 ﻿
 using IdentityServer4.Models;
+using System.Collections.Generic;
 
 namespace IdentityServer4Templates;
 public static class Config

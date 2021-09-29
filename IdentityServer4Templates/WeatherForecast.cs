@@ -1,4 +1,6 @@
 
+using System;
+
 namespace IdentityServer4Templates;
 public class WeatherForecast
 {
